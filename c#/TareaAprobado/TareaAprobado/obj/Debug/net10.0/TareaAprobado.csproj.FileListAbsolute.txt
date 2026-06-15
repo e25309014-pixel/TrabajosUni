@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\bin\Debug\net10.0\TareaAprobado.exe
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\bin\Debug\net10.0\TareaAprobado.deps.json
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\bin\Debug\net10.0\TareaAprobado.runtimeconfig.json
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\bin\Debug\net10.0\TareaAprobado.dll
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\bin\Debug\net10.0\TareaAprobado.pdb
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\TareaAprobado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\TareaAprobado.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\TareaAprobado.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\TareaAprobado.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\TareaAprobado.dll
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\refint\TareaAprobado.dll
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\TareaAprobado.pdb
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\TareaAprobado.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\TareaAprobado\TareaAprobado\obj\Debug\net10.0\ref\TareaAprobado.dll

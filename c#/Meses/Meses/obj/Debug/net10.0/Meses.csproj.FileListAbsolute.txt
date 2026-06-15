@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\Meses\Meses\bin\Debug\net10.0\Meses.exe
+C:\Users\Admin\Documents\c#\Meses\Meses\bin\Debug\net10.0\Meses.deps.json
+C:\Users\Admin\Documents\c#\Meses\Meses\bin\Debug\net10.0\Meses.runtimeconfig.json
+C:\Users\Admin\Documents\c#\Meses\Meses\bin\Debug\net10.0\Meses.dll
+C:\Users\Admin\Documents\c#\Meses\Meses\bin\Debug\net10.0\Meses.pdb
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\Meses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\Meses.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\Meses.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\Meses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\Meses.dll
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\refint\Meses.dll
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\Meses.pdb
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\Meses.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\Meses\Meses\obj\Debug\net10.0\ref\Meses.dll

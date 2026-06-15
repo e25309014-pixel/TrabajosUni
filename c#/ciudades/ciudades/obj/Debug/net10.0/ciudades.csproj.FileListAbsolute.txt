@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\ciudades\ciudades\bin\Debug\net10.0\ciudades.exe
+C:\Users\Admin\Documents\c#\ciudades\ciudades\bin\Debug\net10.0\ciudades.deps.json
+C:\Users\Admin\Documents\c#\ciudades\ciudades\bin\Debug\net10.0\ciudades.runtimeconfig.json
+C:\Users\Admin\Documents\c#\ciudades\ciudades\bin\Debug\net10.0\ciudades.dll
+C:\Users\Admin\Documents\c#\ciudades\ciudades\bin\Debug\net10.0\ciudades.pdb
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\ciudades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\ciudades.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\ciudades.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\ciudades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\ciudades.dll
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\refint\ciudades.dll
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\ciudades.pdb
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\ciudades.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\ciudades\ciudades\obj\Debug\net10.0\ref\ciudades.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\divisores.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\divisores.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\divisores.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\divisores\divisores\bin\Debug\net10.0\divisores.exe
+C:\Users\Admin\Documents\c#\divisores\divisores\bin\Debug\net10.0\divisores.deps.json
+C:\Users\Admin\Documents\c#\divisores\divisores\bin\Debug\net10.0\divisores.runtimeconfig.json
+C:\Users\Admin\Documents\c#\divisores\divisores\bin\Debug\net10.0\divisores.dll
+C:\Users\Admin\Documents\c#\divisores\divisores\bin\Debug\net10.0\divisores.pdb
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\divisores.dll
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\refint\divisores.dll
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\divisores.pdb
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\divisores.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\divisores\divisores\obj\Debug\net10.0\ref\divisores.dll

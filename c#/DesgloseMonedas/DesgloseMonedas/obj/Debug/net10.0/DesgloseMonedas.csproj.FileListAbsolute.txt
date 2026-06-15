@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\bin\Debug\net10.0\DesgloseMonedas.exe
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\bin\Debug\net10.0\DesgloseMonedas.deps.json
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\bin\Debug\net10.0\DesgloseMonedas.runtimeconfig.json
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\bin\Debug\net10.0\DesgloseMonedas.dll
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\bin\Debug\net10.0\DesgloseMonedas.pdb
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\DesgloseMonedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\DesgloseMonedas.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\DesgloseMonedas.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\DesgloseMonedas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\DesgloseMonedas.dll
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\refint\DesgloseMonedas.dll
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\DesgloseMonedas.pdb
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\DesgloseMonedas.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\DesgloseMonedas\DesgloseMonedas\obj\Debug\net10.0\ref\DesgloseMonedas.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\bin\Debug\net10.0\Sumatoria.exe
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\bin\Debug\net10.0\Sumatoria.deps.json
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\bin\Debug\net10.0\Sumatoria.runtimeconfig.json
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\bin\Debug\net10.0\Sumatoria.dll
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\bin\Debug\net10.0\Sumatoria.pdb
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\Sumatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\Sumatoria.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\Sumatoria.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\Sumatoria.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\Sumatoria.dll
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\refint\Sumatoria.dll
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\Sumatoria.pdb
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\Sumatoria.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\Sumatoria\Sumatoria\obj\Debug\net10.0\ref\Sumatoria.dll

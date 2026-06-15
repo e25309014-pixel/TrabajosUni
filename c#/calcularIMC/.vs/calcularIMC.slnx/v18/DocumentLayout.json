@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\c#\\calcularIMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675A73BD-0090-47D6-92DD-E7160FD882D0}|calcularIMC\\calcularIMC.csproj|c:\\users\\admin\\documents\\c#\\calcularimc\\calcularimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675A73BD-0090-47D6-92DD-E7160FD882D0}|calcularIMC\\calcularIMC.csproj|solutionrelative:calcularimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\c#\\calcularIMC\\calcularIMC\\Program.cs",
+              "RelativeDocumentMoniker": "calcularIMC\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\c#\\calcularIMC\\calcularIMC\\Program.cs",
+              "RelativeToolTip": "calcularIMC\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:14:40.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

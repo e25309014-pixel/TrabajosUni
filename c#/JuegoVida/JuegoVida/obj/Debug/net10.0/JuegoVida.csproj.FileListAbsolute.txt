@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\bin\Debug\net10.0\JuegoVida.exe
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\bin\Debug\net10.0\JuegoVida.deps.json
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\bin\Debug\net10.0\JuegoVida.runtimeconfig.json
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\bin\Debug\net10.0\JuegoVida.dll
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\bin\Debug\net10.0\JuegoVida.pdb
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\JuegoVida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\JuegoVida.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\JuegoVida.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\JuegoVida.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\JuegoVida.dll
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\refint\JuegoVida.dll
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\JuegoVida.pdb
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\JuegoVida.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\JuegoVida\JuegoVida\obj\Debug\net10.0\ref\JuegoVida.dll

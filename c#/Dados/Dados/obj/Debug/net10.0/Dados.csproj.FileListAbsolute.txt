@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\Dados\Dados\bin\Debug\net10.0\Dados.exe
+C:\Users\Admin\Documents\c#\Dados\Dados\bin\Debug\net10.0\Dados.deps.json
+C:\Users\Admin\Documents\c#\Dados\Dados\bin\Debug\net10.0\Dados.runtimeconfig.json
+C:\Users\Admin\Documents\c#\Dados\Dados\bin\Debug\net10.0\Dados.dll
+C:\Users\Admin\Documents\c#\Dados\Dados\bin\Debug\net10.0\Dados.pdb
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\Dados.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\Dados.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\Dados.dll
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\refint\Dados.dll
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\Dados.pdb
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\Dados.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\Dados\Dados\obj\Debug\net10.0\ref\Dados.dll

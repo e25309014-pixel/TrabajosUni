@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\bin\Debug\net10.0\Aprobado.exe
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\bin\Debug\net10.0\Aprobado.deps.json
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\bin\Debug\net10.0\Aprobado.runtimeconfig.json
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\bin\Debug\net10.0\Aprobado.dll
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\bin\Debug\net10.0\Aprobado.pdb
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\Aprobado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\Aprobado.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\Aprobado.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\Aprobado.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\Aprobado.dll
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\refint\Aprobado.dll
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\Aprobado.pdb
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\Aprobado.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\Aprobado\Aprobado\obj\Debug\net10.0\ref\Aprobado.dll

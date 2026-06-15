@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\bin\Debug\net10.0\calcularIMC.exe
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\bin\Debug\net10.0\calcularIMC.deps.json
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\bin\Debug\net10.0\calcularIMC.runtimeconfig.json
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\bin\Debug\net10.0\calcularIMC.dll
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\bin\Debug\net10.0\calcularIMC.pdb
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\calcularIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\calcularIMC.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\calcularIMC.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\calcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\calcularIMC.dll
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\refint\calcularIMC.dll
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\calcularIMC.pdb
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\calcularIMC.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\calcularIMC\calcularIMC\obj\Debug\net10.0\ref\calcularIMC.dll

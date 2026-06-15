@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\bin\Debug\net10.0\Bisiesto.exe
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\bin\Debug\net10.0\Bisiesto.deps.json
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\bin\Debug\net10.0\Bisiesto.runtimeconfig.json
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\bin\Debug\net10.0\Bisiesto.dll
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\bin\Debug\net10.0\Bisiesto.pdb
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\Bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\Bisiesto.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\Bisiesto.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\Bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\Bisiesto.dll
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\refint\Bisiesto.dll
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\Bisiesto.pdb
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\Bisiesto.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\Bisiesto\Bisiesto\obj\Debug\net10.0\ref\Bisiesto.dll

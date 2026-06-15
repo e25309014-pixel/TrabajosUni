@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\bin\Debug\net10.0\numerosamigos.exe
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\bin\Debug\net10.0\numerosamigos.deps.json
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\bin\Debug\net10.0\numerosamigos.runtimeconfig.json
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\bin\Debug\net10.0\numerosamigos.dll
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\bin\Debug\net10.0\numerosamigos.pdb
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\numerosamigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\numerosamigos.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\numerosamigos.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\numerosamigos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\numerosamigos.dll
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\refint\numerosamigos.dll
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\numerosamigos.pdb
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\numerosamigos.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\numerosamigos\numerosamigos\obj\Debug\net10.0\ref\numerosamigos.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\bin\Debug\net10.0\Contar1-10.exe
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\bin\Debug\net10.0\Contar1-10.deps.json
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\bin\Debug\net10.0\Contar1-10.runtimeconfig.json
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\bin\Debug\net10.0\Contar1-10.dll
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\bin\Debug\net10.0\Contar1-10.pdb
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\Contar1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\Contar1-10.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\Contar1-10.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\Contar1-10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\Contar1-10.dll
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\refint\Contar1-10.dll
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\Contar1-10.pdb
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\Contar1-10.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\Contar1-10\Contar1-10\obj\Debug\net10.0\ref\Contar1-10.dll
