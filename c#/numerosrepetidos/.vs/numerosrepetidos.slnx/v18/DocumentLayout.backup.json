@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\c#\\numerosrepetidos\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\c#\\TrabajosUni\\c#\\numerosrepetidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B088B8CC-EC70-4CE0-94AD-4D4E8A5C38E4}|numerosrepetidos\\numerosrepetidos.csproj|c:\\users\\admin\\documents\\c#\\numerosrepetidos\\numerosrepetidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B088B8CC-EC70-4CE0-94AD-4D4E8A5C38E4}|numerosrepetidos\\numerosrepetidos.csproj|solutionrelative:numerosrepetidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4590651E-E91A-D43C-1A30-1DC1CA20E522}|numerosrepetidos\\numerosrepetidos.csproj|c:\\users\\admin\\documents\\c#\\trabajosuni\\c#\\numerosrepetidos\\numerosrepetidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4590651E-E91A-D43C-1A30-1DC1CA20E522}|numerosrepetidos\\numerosrepetidos.csproj|solutionrelative:numerosrepetidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +24,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\c#\\numerosrepetidos\\numerosrepetidos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\c#\\TrabajosUni\\c#\\numerosrepetidos\\numerosrepetidos\\Program.cs",
               "RelativeDocumentMoniker": "numerosrepetidos\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\c#\\numerosrepetidos\\numerosrepetidos\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\c#\\TrabajosUni\\c#\\numerosrepetidos\\numerosrepetidos\\Program.cs",
               "RelativeToolTip": "numerosrepetidos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-15T20:14:39.607Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

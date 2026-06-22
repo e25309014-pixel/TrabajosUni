@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numerosrepetidos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b643485f2bcd31ce371d6ac8dab7107b30dbef0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("numerosrepetidos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numerosrepetidos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

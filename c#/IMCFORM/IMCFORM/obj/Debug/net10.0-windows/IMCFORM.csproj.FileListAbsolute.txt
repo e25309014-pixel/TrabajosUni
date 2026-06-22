@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\bin\Debug\net10.0-windows\IMCFORM.exe
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\bin\Debug\net10.0-windows\IMCFORM.deps.json
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\bin\Debug\net10.0-windows\IMCFORM.runtimeconfig.json
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\bin\Debug\net10.0-windows\IMCFORM.dll
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\bin\Debug\net10.0-windows\IMCFORM.pdb
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.Form1.resources
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.dll
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\refint\IMCFORM.dll
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.pdb
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\IMCFORM.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\IMCFORM\IMCFORM\obj\Debug\net10.0-windows\ref\IMCFORM.dll

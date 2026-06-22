@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\c#\TrabajosUni\c#\numerosrepetidos\numerosrepetidos\obj\Debug\net10.0\numerosrepetidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\TrabajosUni\c#\numerosrepetidos\numerosrepetidos\obj\Debug\net10.0\numerosrepetidos.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\TrabajosUni\c#\numerosrepetidos\numerosrepetidos\obj\Debug\net10.0\numerosrepetidos.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\TrabajosUni\c#\numerosrepetidos\numerosrepetidos\obj\Debug\net10.0\numerosrepetidos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\TrabajosUni\c#\numerosrepetidos\numerosrepetidos\obj\Debug\net10.0\numerosrepetidos.sourcelink.json

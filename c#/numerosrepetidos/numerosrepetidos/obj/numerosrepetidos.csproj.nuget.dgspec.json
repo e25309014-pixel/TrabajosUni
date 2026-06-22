@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\c#\\numerosrepetidos\\numerosrepetidos\\numerosrepetidos.csproj": {}
+    "C:\\Users\\Admin\\Documents\\c#\\TrabajosUni\\c#\\numerosrepetidos\\numerosrepetidos\\numerosrepetidos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\c#\\numerosrepetidos\\numerosrepetidos\\numerosrepetidos.csproj": {
+    "C:\\Users\\Admin\\Documents\\c#\\TrabajosUni\\c#\\numerosrepetidos\\numerosrepetidos\\numerosrepetidos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\c#\\numerosrepetidos\\numerosrepetidos\\numerosrepetidos.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\c#\\TrabajosUni\\c#\\numerosrepetidos\\numerosrepetidos\\numerosrepetidos.csproj",
         "projectName": "numerosrepetidos",
-        "projectPath": "C:\\Users\\Admin\\Documents\\c#\\numerosrepetidos\\numerosrepetidos\\numerosrepetidos.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\c#\\TrabajosUni\\c#\\numerosrepetidos\\numerosrepetidos\\numerosrepetidos.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\c#\\numerosrepetidos\\numerosrepetidos\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\c#\\TrabajosUni\\c#\\numerosrepetidos\\numerosrepetidos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

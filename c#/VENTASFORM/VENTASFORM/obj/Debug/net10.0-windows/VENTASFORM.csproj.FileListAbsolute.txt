@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\bin\Debug\net10.0-windows\VENTASFORM.exe
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\bin\Debug\net10.0-windows\VENTASFORM.deps.json
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\bin\Debug\net10.0-windows\VENTASFORM.runtimeconfig.json
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\bin\Debug\net10.0-windows\VENTASFORM.dll
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\bin\Debug\net10.0-windows\VENTASFORM.pdb
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.Form1.resources
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.dll
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\refint\VENTASFORM.dll
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.pdb
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\VENTASFORM.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\VENTASFORM\VENTASFORM\obj\Debug\net10.0-windows\ref\VENTASFORM.dll

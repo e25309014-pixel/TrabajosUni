@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\bin\Debug\net10.0-windows\OPERACIONESFORM.exe
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\bin\Debug\net10.0-windows\OPERACIONESFORM.deps.json
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\bin\Debug\net10.0-windows\OPERACIONESFORM.runtimeconfig.json
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\bin\Debug\net10.0-windows\OPERACIONESFORM.dll
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\bin\Debug\net10.0-windows\OPERACIONESFORM.pdb
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.Form1.resources
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.dll
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\refint\OPERACIONESFORM.dll
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.pdb
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\OPERACIONESFORM.genruntimeconfig.cache
+C:\Users\Admin\Documents\c#\OPERACIONESFORM\OPERACIONESFORM\obj\Debug\net10.0-windows\ref\OPERACIONESFORM.dll
